@@ -1,0 +1,608 @@
+1633735788928	geckodriver	INFO	Listening on 127.0.0.1:55307
+1633735788947	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile6ovcg5"
+1633735811238	Marionette	INFO	Listening on port 38223
+1633735811258	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+1633736377993	geckodriver	INFO	Listening on 127.0.0.1:59331
+1633736378010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilegr5KyV"
+1633736388524	Marionette	INFO	Listening on port 37307
+1633736388554	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1633736620648	Marionette	INFO	Stopped listening on port 38223
+1633737264163	geckodriver	INFO	Listening on 127.0.0.1:57393
+1633737264208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileQ79hBq"
+1633737276669	Marionette	INFO	Listening on port 44863
+1633737276915	Marionette	WARN	TLS certificate errors will be ignored for this session
+1633737344939	Marionette	INFO	Stopped listening on port 37307
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+1633737427818	Marionette	INFO	Stopped listening on port 44863
+1633737429322	geckodriver	INFO	Listening on 127.0.0.1:47367
+1633737429334	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilerfu9yR"
+1633737440318	Marionette	INFO	Listening on port 41197
+1633737440521	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1633737546524	Marionette	INFO	Stopped listening on port 41197
+1633737549347	geckodriver	INFO	Listening on 127.0.0.1:55229
+1633737549363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilePcAyhc"
+1633737559881	Marionette	INFO	Listening on port 45583
+1633737559944	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+1633737781367	geckodriver	INFO	Listening on 127.0.0.1:54833
+1633737781383	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile8ENv2i"
+1633737789880	Marionette	INFO	Stopped listening on port 45583
+1633737792778	Marionette	INFO	Listening on port 38423
+1633737792831	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1633738066968	Marionette	INFO	Stopped listening on port 38423
+1633738069910	geckodriver	INFO	Listening on 127.0.0.1:34959
+1633738069927	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileB69YC9"
+1633738080812	Marionette	INFO	Listening on port 34949
+1633738080869	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633738133425	Marionette	INFO	Stopped listening on port 34949
+1633738314815	geckodriver	INFO	Listening on 127.0.0.1:43755
+1633738314832	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile0leOi9"
+Running Firefox as root in a regular user's session is not supported.  ($XDG_RUNTIME_DIR is /run/user/1000 which is owned by luis.)
+1633738349921	geckodriver	INFO	Listening on 127.0.0.1:60235
+1633738349937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileL0SXdZ"
+Running Firefox as root in a regular user's session is not supported.  ($XDG_RUNTIME_DIR is /run/user/1000 which is owned by luis.)
+1633738376056	geckodriver	INFO	Listening on 127.0.0.1:41521
+1633738376073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiles9o7G1"
+1633738387637	Marionette	INFO	Listening on port 35461
+1633738387728	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1633738460131	Marionette	INFO	Stopped listening on port 35461
+1633738581477	geckodriver	INFO	Listening on 127.0.0.1:45019
+1633738581492	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileTRdNro"
+1633738598604	Marionette	INFO	Listening on port 34507
+1633738598721	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1633738699356	Marionette	INFO	Stopped listening on port 34507
+1633738703147	geckodriver	INFO	Listening on 127.0.0.1:40887
+1633738703162	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileVbVqUl"
+1633738714103	Marionette	INFO	Listening on port 40383
+1633738714172	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1633738807429	Marionette	INFO	Stopped listening on port 40383
+1633738810135	geckodriver	INFO	Listening on 127.0.0.1:32861
+1633738810151	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile0Ja8PR"
+1633738820576	Marionette	INFO	Listening on port 35175
+1633738820624	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1633738886674	geckodriver	INFO	Listening on 127.0.0.1:37051
+1633738886691	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile3PbnG9"
+1633738897376	Marionette	INFO	Listening on port 34765
+1633738897582	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1080"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1080:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:583:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:664:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1080, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1167:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1392:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1115:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:586:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:664:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1167, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1167))
+1633739558534	Marionette	INFO	Stopped listening on port 34765
+1633739561585	geckodriver	INFO	Listening on 127.0.0.1:37557
+1633739562665	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile3Gk4AZ"
+1633739576000	Marionette	INFO	Listening on port 44357
+1633739576022	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1633740240137	Marionette	INFO	Stopped listening on port 44357
+1633740241568	geckodriver	INFO	Listening on 127.0.0.1:47803
+1633740241581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileONVNQk"
+1633740254417	Marionette	INFO	Listening on port 44001
+1633740254487	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1633740496296	Marionette	INFO	Stopped listening on port 44001
+1633740539131	geckodriver	INFO	Listening on 127.0.0.1:47227
+1633740539148	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile9RrUeC"
+1633740550706	Marionette	INFO	Listening on port 34921
+1633740551041	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+1633740598955	Marionette	INFO	Stopped listening on port 35175
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript warning: https://web.whatsapp.com/vendor1~bootstrap_qr.ae27dc4782610dceb543.js, line 34: Script terminated by timeout at:
+Co@https://web.whatsapp.com/vendor1~bootstrap_qr.ae27dc4782610dceb543.js:34:56649
+$s@https://web.whatsapp.com/vendor1~bootstrap_qr.ae27dc4782610dceb543.js:34:112970
+Au@https://web.whatsapp.com/vendor1~bootstrap_qr.ae27dc4782610dceb543.js:34:98519
+ku@https://web.whatsapp.com/vendor1~bootstrap_qr.ae27dc4782610dceb543.js:34:98447
+Su@https://web.whatsapp.com/vendor1~bootstrap_qr.ae27dc4782610dceb543.js:34:98308
+mu@https://web.whatsapp.com/vendor1~bootstrap_qr.ae27dc4782610dceb543.js:34:95295
+Wi/<@https://web.whatsapp.com/vendor1~bootstrap_qr.ae27dc4782610dceb543.js:34:44967
+60053/t.unstable_runWithPriority@https://web.whatsapp.com/vendor1~bootstrap_qr.ae27dc4782610dceb543.js:58:3768
+Yi@https://web.whatsapp.com/vendor1~bootstrap_qr.ae27dc4782610dceb543.js:34:44744
+Wi@https://web.whatsapp.com/vendor1~bootstrap_qr.ae27dc4782610dceb543.js:34:44914
+$i@https://web.whatsapp.com/vendor1~bootstrap_qr.ae27dc4782610dceb543.js:34:44847
+fu@https://web.whatsapp.com/vendor1~bootstrap_qr.ae27dc4782610dceb543.js:34:92672
+Ta@https://web.whatsapp.com/vendor1~bootstrap_qr.ae27dc4782610dceb543.js:34:64370
+24706/t.useModality/</<@https://web.whatsapp.com/vendor1~bootstrap_qr.ae27dc4782610dceb543.js:34:119753
+M/<@https://web.whatsapp.com/vendor1~bootstrap_qr.ae27dc4782610dceb543.js:34:122015
+M@https://web.whatsapp.com/vendor1~bootstrap_qr.ae27dc4782610dceb543.js:34:121993
+R@https://web.whatsapp.com/vendor1~bootstrap_qr.ae27dc4782610dceb543.js:34:121536
+12139/<@https://web.whatsapp.com/vendor1~bootstrap_qr.ae27dc4782610dceb543.js:34:122151
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1633740806516	Marionette	INFO	Stopped listening on port 34921
+1633740981088	geckodriver	INFO	Listening on 127.0.0.1:41155
+1633740981103	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilePMRNbC"
+1633740992151	Marionette	INFO	Listening on port 46605
+1633740992390	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1633741092108	Marionette	INFO	Stopped listening on port 46605
+1633741117515	geckodriver	INFO	Listening on 127.0.0.1:42339
+1633741117532	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileB5CTx0"
+1633741128087	Marionette	INFO	Listening on port 40905
+1633741128191	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1633741218527	Marionette	INFO	Stopped listening on port 40905
+1633741358141	geckodriver	INFO	Listening on 127.0.0.1:44115
+1633741358157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileoT4c1B"
+1633741371850	Marionette	INFO	Listening on port 33777
+1633741371912	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1633741417645	Marionette	INFO	Stopped listening on port 33777
+1633798567876	geckodriver	INFO	Listening on 127.0.0.1:47095
+1633798568846	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile3rCKhb"
+1633798593107	Marionette	INFO	Listening on port 39155
+1633798593190	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+1633798695024	Marionette	INFO	Stopped listening on port 39155
+1633798702029	geckodriver	INFO	Listening on 127.0.0.1:50971
+1633798702055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileRxvEKE"
+1633798713689	Marionette	INFO	Listening on port 37499
+1633798713975	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+1633798806141	geckodriver	INFO	Listening on 127.0.0.1:46245
+1633798806156	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileiMYtaj"
+1633798813547	Marionette	INFO	Stopped listening on port 37499
+1633798819804	Marionette	INFO	Listening on port 38977
+1633798819857	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+1633819057928	Marionette	INFO	Stopped listening on port 38977
+1633981172134	geckodriver	INFO	Listening on 127.0.0.1:56101
+1633981173092	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilePQxz7N"
+1633981200390	Marionette	INFO	Listening on port 41739
+1633981200418	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+1633981358894	Marionette	INFO	Stopped listening on port 41739
+1633981363561	geckodriver	INFO	Listening on 127.0.0.1:55553
+1633981364498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileRACTDi"
+1633981375962	Marionette	INFO	Listening on port 46211
+1633981376172	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1633981585533	Marionette	INFO	Stopped listening on port 46211
+1633981587534	geckodriver	INFO	Listening on 127.0.0.1:38461
+1633981587565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilemXZIJc"
+1633981600040	Marionette	INFO	Listening on port 45063
+1633981600124	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:1013:5\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2245))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1013:5)", "resource://devtools/shared/protocol/Front.js", 323))
+1633982708753	Marionette	INFO	Stopped listening on port 45063
+1633982713457	geckodriver	INFO	Listening on 127.0.0.1:50529
+1633982713487	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilepes9A2"
+1633982727185	Marionette	INFO	Listening on port 42505
+1633982727237	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1080"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1080:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:583:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:664:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1080, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1167:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1392:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1115:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:586:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:664:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1167, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1167))
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1080"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1080:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:583:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:664:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1080, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1167:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1392:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1115:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:586:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:664:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1167, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1167))
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2245))
+1633984678565	Marionette	INFO	Stopped listening on port 42505
+1633984687616	geckodriver	INFO	Listening on 127.0.0.1:59329
+1633984687632	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilekJm1rE"
+1633984701929	Marionette	INFO	Listening on port 35531
+1633984702001	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2245))
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1080"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1080:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:583:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:664:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1080, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1167:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1392:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1115:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:586:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:664:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1167, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1167))
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1080"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1080:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:583:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:664:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1080, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1167:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1392:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1115:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:586:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:664:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1167, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1167))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1080"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1080:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:583:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:664:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1080, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1167:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1392:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1115:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:586:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:664:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1167, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1167))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1080"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1080:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:583:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:664:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1080, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1167:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1392:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1115:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:586:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:664:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1167, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1167))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:1013:5\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2245))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn2.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1013:5)", "resource://devtools/shared/protocol/Front.js", 323))
+JavaScript error: resource://devtools/client/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/client/fronts/node.js, line 404: TypeError: this.parentFront is null
+JavaScript error: resource://devtools/client/fronts/node.js, line 404: TypeError: this.parentFront is null
+1633997980565	Marionette	INFO	Stopped listening on port 35531
+1633997985369	geckodriver	INFO	Listening on 127.0.0.1:41483
+1633997985385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilech2SVO"
+1633997996420	Marionette	INFO	Listening on port 38557
+1633997996527	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+1633998603624	Marionette	INFO	Stopped listening on port 38557
+1633998609455	geckodriver	INFO	Listening on 127.0.0.1:42691
+1633998609471	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileumKc5z"
+1633998621330	Marionette	INFO	Listening on port 36385
+1633998621420	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1633999590478	Marionette	INFO	Stopped listening on port 36385
+1633999610421	geckodriver	INFO	Listening on 127.0.0.1:33437
+1633999610438	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileXOhVEM"
+1633999623822	Marionette	INFO	Listening on port 45061
+1633999623893	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+1634000862926	Marionette	INFO	Stopped listening on port 45061
+1634001039183	geckodriver	INFO	Listening on 127.0.0.1:54211
+1634001039201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile7HlRBs"
+1634001050128	Marionette	INFO	Listening on port 42615
+1634001050207	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1634001390441	geckodriver	INFO	Listening on 127.0.0.1:55019
+1634001390456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilecNLSPJ"
+1634001401647	Marionette	INFO	Listening on port 37837
+1634001401731	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1634001870749	geckodriver	INFO	Listening on 127.0.0.1:41051
+1634001870773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileAfiIUa"
+1634001882161	Marionette	INFO	Listening on port 34631
+1634001882278	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1634002319722	Marionette	INFO	Stopped listening on port 34631
+1634002330059	geckodriver	INFO	Listening on 127.0.0.1:35605
+1634002330074	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilevH9FTl"
+1634002343909	Marionette	INFO	Listening on port 38299
+1634002344006	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1634002394722	Marionette	INFO	Stopped listening on port 37837
+1634002399532	Marionette	INFO	Stopped listening on port 42615
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634002479252	Marionette	INFO	Stopped listening on port 38299
+1634012407708	geckodriver	INFO	Listening on 127.0.0.1:59029
+1634012408674	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilesIUzrE"
+1634012427434	Marionette	INFO	Listening on port 36527
+1634012427569	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1080"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1080:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:583:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:664:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1080, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1167:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1392:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1115:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:586:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:664:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1167, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1167))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1080"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1080:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:583:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:664:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1080, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1167:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1392:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1115:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:586:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:664:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1167, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1167))
+1634013186454	geckodriver	INFO	Listening on 127.0.0.1:44293
+1634013186472	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilekrosJl"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript warning: https://www.google.com/search?client=firefox-b-e&q=127.0.0.1%3A59029., line 21: Script terminated by timeout at:
+l@https://www.google.com/search?client=firefox-b-e&q=127.0.0.1%3A59029.:21:1
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1634015223687	Marionette	INFO	Stopped listening on port 36527
+1634067969003	geckodriver	INFO	Listening on 127.0.0.1:60843
+1634067970005	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileX9gNF9"
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+1634067994045	Marionette	INFO	Listening on port 33883
+1634067994107	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1634068064733	geckodriver	INFO	Listening on 127.0.0.1:54879
+1634068064767	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileYSEMPm"
+1634068077532	Marionette	INFO	Listening on port 43265
+1634068077629	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 288: NS_ERROR_FAILURE: Should pass a non-null uri
+1634068116951	Marionette	INFO	Stopped listening on port 43265
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1080"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1080:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:583:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:664:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1080, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1167:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1392:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1115:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:586:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:664:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1167, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1167))
+1634080379350	Marionette	INFO	Stopped listening on port 33883
+1634080391320	geckodriver	INFO	Listening on 127.0.0.1:54939
+1634080392309	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileSXF9i6"
+1634080405605	Marionette	INFO	Listening on port 37613
+1634080405819	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.d3ab17b51a79359ce87d.js, line 56: unreachable code after return statement
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1634081099686	Marionette	INFO	Stopped listening on port 37613
